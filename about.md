@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: CS 373 Blog
 ---
 
-Some information about you!
+Hi, my name is Sanat Sharma and this is my blog to document my experiences through CS 373!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sanatsharma@utexas.edu](mailto:sanatsharma@utexas.edu)
