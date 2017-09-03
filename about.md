@@ -1,6 +1,7 @@
 ---
 layout: page
-title: CS 373 Blog
+title: About
+permalink: /about/
 ---
 
 Hi, my name is Sanat Sharma and this is my blog to document my experiences through CS 373!
